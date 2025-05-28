@@ -17,8 +17,8 @@ A Django-powered real-time chat app with synchronized music playback via Audius 
 
 ## Run Locally
 ```bash
-git clone https://github.com/YOU/REPO.git
-cd REPO
+git clone https://github.com/Nihal-das/chat_music.git
+cd chat_muisc
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
